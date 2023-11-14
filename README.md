@@ -16,3 +16,5 @@ Repo for the `GitHub Actions Fundamentals` training.
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
+
+.
